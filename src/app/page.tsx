@@ -14,10 +14,10 @@ export default function HomePage() {
             <span className="text-yellow-300">em 2 minutos.</span>
           </h1>
           <p className="text-xl text-blue-100 mb-4 max-w-2xl mx-auto">
-            Válido juridicamente. R$39,90 por contrato ou R$29,90/mês no plano ilimitado.
+            Modelo de contrato de prestação de serviços. R$39,90 por contrato ou R$29,90/mês no plano ilimitado.
           </p>
           <p className="text-sm text-blue-200 mb-8">
-            Baseado no Código Civil Brasileiro • Revisado por advogados
+            Baseado no Código Civil Brasileiro (Art. 593-609) • Cláusulas personalizáveis
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link
